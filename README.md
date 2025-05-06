@@ -1,6 +1,6 @@
 # Project
 This is my first Git Repository.
 <br>
-Author - Easha Akram
+Author - Easha (projects)
 <br>
 security login
